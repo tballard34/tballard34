@@ -1,7 +1,7 @@
+# Greetings
+![image](https://github.com/user-attachments/assets/a4f1a00c-7827-4ada-987c-8028601d2232)
 
-
-
-
+Welcome to my profile
 
 ## 📫 Reach Out to Me
 - Email: [trentballard0@gmail.com](mailto:trentballard0@gmail.com)
